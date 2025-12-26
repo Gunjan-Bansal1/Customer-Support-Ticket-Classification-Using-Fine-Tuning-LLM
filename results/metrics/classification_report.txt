@@ -1,0 +1,11 @@
+                 precision    recall  f1-score   support
+
+  Account/Login       0.90      0.90      0.90       240
+        Billing       0.96      0.93      0.94       440
+General Inquiry       0.97      0.98      0.97      2040
+ Order/Delivery       0.98      0.93      0.96       120
+      Technical       0.92      0.88      0.90       240
+
+       accuracy                           0.96      3080
+      macro avg       0.95      0.93      0.94      3080
+   weighted avg       0.96      0.96      0.96      3080
