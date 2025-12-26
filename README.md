@@ -1,7 +1,16 @@
 # Customer Support Ticket Intelligence using Fine-Tuned LLM
 
 ## 📌 Project Overview
-This project aims to automate the classification of customer support tickets by fine-tuning a Large Language Model (LLM). The system analyzes incoming customer queries and categorizes them into specific **Issue Categories** and assigns a **Priority Level**. This helps in streamlining support operations, reducing response times, and ensuring critical issues are addressed promptly.
+This project aims to automate the classification of customer support tickets by fine-tuning a Large Language Model (BERT). The system analyzes incoming customer queries and categorizes them into specific **Issue Categories** and assigns a **Priority Level**. This helps in streamlining support operations, reducing response times, and ensuring critical issues are addressed promptly.
+
+## 🧠 Why LLMs?
+Traditional ML models struggle with:
+Natural language variations
+Context understanding
+Ambiguous customer messages
+
+Pretrained LLMs already understand language structure and meaning.
+Fine-tuning them on customer tickets makes them domain-aware and highly accurate.
 
 ## 🎯 Objective
 Fine-tune a pretrained language model to automatically classify customer support tickets into:
